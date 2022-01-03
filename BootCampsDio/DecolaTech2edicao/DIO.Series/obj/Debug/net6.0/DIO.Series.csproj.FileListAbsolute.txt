@@ -1,0 +1,15 @@
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/bin/Debug/net6.0/DIO.Series
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/bin/Debug/net6.0/DIO.Series.deps.json
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/bin/Debug/net6.0/DIO.Series.dll
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/bin/Debug/net6.0/ref/DIO.Series.dll
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/bin/Debug/net6.0/DIO.Series.pdb
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
+/home/neres/Documentos/repositórios-GITHUB/dio.me/DIO.Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
